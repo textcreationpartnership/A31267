@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Catalogue of divers excellent Italian pictures of the most eminent masters, both ancient and modern, which will be exposed to sale in the Banqueting House at White-Hall, by way of publick out-cry, on Tuesday the 11th of this instant month of May,</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31267</idno>
+            <idno type="STC">Wing C1308</idno>
+            <idno type="STC">ESTC R39947</idno>
+            <idno type="EEBO-CITATION">18570602</idno>
+            <idno type="OCLC">ocm 18570602</idno>
+            <idno type="VID">108039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1647:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Catalogue of divers excellent Italian pictures of the most eminent masters, both ancient and modern, which will be exposed to sale in the Banqueting House at White-Hall, by way of publick out-cry, on Tuesday the 11th of this instant month of May,</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: May the 8th, 1686.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Painting --  Catalogs.</term>
+               <term>Art auctions --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="collection">
+            <pb facs="tcp:108039:1"/>
+            <pb facs="tcp:108039:1" rendition="simple:additions"/>
+            <head>
+               <hi>May the 8th, 1686</hi> A Catalogue of divers Excellent <hi>Italian</hi> Pictures of the moſt Eminent Maſters, both Ancient and Modern, which will be expoſed to Sale in the Banqueting-Houſe at <hi>White-Hall,</hi> by way of publick Out-cry, on <hi>Tueſday</hi> the 11th of this Inſtant Month of <hi>May.</hi>
+            </head>
+            <list>
+               <item>N<hi rend="sup">o</hi> 1 HOratius Cocles <hi>defending the Bridge</hi> — Franceſco Mola</item>
+               <item>N<hi rend="sup">o</hi> 2 Curtius <hi>leaping into the Pit</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 3 <hi>Our</hi> Saviour <hi>in the Garden</hi> — Guircoino Del Cento</item>
+               <item>N<hi rend="sup">o</hi> 4 <hi>A</hi> Madonna <hi>and the</hi> Arch-Angel — Gieorgione</item>
+               <item>N<hi rend="sup">o</hi> 5 <hi>The</hi> Shepherds <hi>preſenting our</hi> Saviour — Julio Romano</item>
+               <item>N<hi rend="sup">o</hi> 6 <hi>A Battel</hi> — Mich. Ang. Battaglia</item>
+               <item>N<hi rend="sup">o</hi> 7 <hi>A View of</hi> Aqua Acetoſa — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 8 Tobit <hi>the</hi> Angel <hi>and other Figures</hi> — Carlo Maratta</item>
+               <item>N<hi rend="sup">o</hi> 9 <hi>A Landskip</hi> — Gaſpero Pauſin</item>
+               <item>N<hi rend="sup">o</hi> 10 Jaſon <hi>killing the</hi> Dragon — Salvator Roſa</item>
+               <item>N<hi rend="sup">o</hi> 11 <hi>A Beggar</hi> — Franceſco Giovanni</item>
+               <item>N<hi rend="sup">o</hi> 12 <hi>A Landskip with Figures — By an</hi> Italian <hi>Hand</hi>
+               </item>
+               <item>N<hi rend="sup">o</hi> 13 <hi>A Philoſophers Head</hi> — Prete Genoeſe</item>
+               <item>N<hi rend="sup">o</hi> 14 <hi>A Battel</hi> — Burgonnion</item>
+               <item>N<hi rend="sup">o</hi> 15 <hi>A Laughing Boy</hi> — Fra. Mola</item>
+               <item>N<hi rend="sup">o</hi> 16 <hi>A Round Landskip</hi> — Vander-Cable</item>
+               <item>N<hi rend="sup">o</hi> 17 <hi>A Landskip with a Philoſopher in it</hi> — Carlo Ronca</item>
+               <item>N<hi rend="sup">o</hi> 18 <hi>A St.</hi> Peters <hi>Head</hi> — Spagniletto</item>
+               <item>N<hi rend="sup">o</hi> 19 <hi>A Philoſophers Head</hi> — Prete Genoeſe</item>
+               <item>N<hi rend="sup">o</hi> 20 <hi>A Spoiling of the Field</hi> — Burgonnion</item>
+               <item>N<hi rend="sup">o</hi> 21 <hi>An Old mans Head</hi> — Jacinto Brandy</item>
+               <item>N<hi rend="sup">o</hi> 22 <hi>A Head</hi> — Beneditto Caſtiglione</item>
+               <item>N<hi rend="sup">o</hi> 23 <hi>The Aſſumption of our Lady — By an</hi> Italian <hi>Hand</hi>
+               </item>
+               <item>N<hi rend="sup">o</hi> 24 <hi>The Preaching of St.</hi> John — Romanello</item>
+               <item>N<hi rend="sup">o</hi> 25 <hi>A Landskip</hi> — Franſceſco Baſſi</item>
+               <item>N<hi rend="sup">o</hi> 26 <hi>A Landskip</hi> — Franceſco Mola</item>
+               <item>N<hi rend="sup">o</hi> 27 <hi>A Landskip</hi> — Antonio Di Vall</item>
+               <item>N<hi rend="sup">o</hi> 28 Jacobs <hi>deſcent into</hi> Egypt — Beneditto Caſtiglione</item>
+               <item>N<hi rend="sup">o</hi> 29 <hi>St.</hi> Peter <hi>denying our</hi> Saviour — Prete Genoeſe</item>
+               <item>N<hi rend="sup">o</hi> 30 Moſes <hi>in the Flaggs — Sr.</hi> Ant. Van. Dych</item>
+               <item>N<hi rend="sup">o</hi> 31 <hi>A</hi> Madonna — Titian</item>
+               <item>N<hi rend="sup">o</hi> 32 <hi>Chriſt Crowned with Thorns</hi> — Mich. Ang. Caravaggio</item>
+               <item>N<hi rend="sup">o</hi> 33 <hi>Chriſt before</hi> Pilate — Andrae Anſaldo</item>
+               <item>N<hi rend="sup">o</hi> 34 <hi>A</hi> Madonna <hi>and St.</hi> Joſeph <hi>ſleeping</hi> — Lucas Jordanus</item>
+               <item>N<hi rend="sup">o</hi> 35 <hi>A</hi> Madonna <hi>St.</hi> Joſ. <hi>St.</hi> Kath. <hi>&amp;c.</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 36 <hi>A Boys Head</hi> — Franceſco Mola</item>
+               <item>N<hi rend="sup">o</hi> 37 <hi>St.</hi> Francis <hi>with</hi> Angels — Franceſco Traviſano</item>
+               <item>N<hi rend="sup">o</hi> 38 <hi>A Landskip — By an</hi> Italian <hi>Hand</hi>
+               </item>
+               <item>N<hi rend="sup">o</hi> 39 <hi>A Small Labratory</hi> — Buon Anni</item>
+               <item>N<hi rend="sup">o</hi> 40 <hi>A Kitchin</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 41 <hi>A St.</hi> Jerom — Fra. Traviſano</item>
+               <item>N<hi rend="sup">o</hi> 42 <hi>A Landskip</hi> — Pietro Tempeſtino</item>
+               <item>N<hi rend="sup">o</hi> 43 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 44 <hi>A Flower-Pot in Water-Colours — By an</hi> Italian <hi>Hand</hi>
+               </item>
+               <pb n="2" facs="tcp:108039:2"/>
+               <item>N<hi rend="sup">o</hi> 45 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 46 <hi>Martyrdom of four</hi> Saints — Fra. Traviſano</item>
+               <item>N<hi rend="sup">o</hi> 47 <hi>A Landskip</hi> — Vander-Cable</item>
+               <item>N<hi rend="sup">o</hi> 48 <hi>Preaching of St.</hi> John — Lugi Garzi</item>
+               <item>N<hi rend="sup">o</hi> 49 <hi>An</hi> Angel <hi>leading a Child</hi> — Salvator Roſa</item>
+               <item>N<hi rend="sup">o</hi> 50 <hi>An</hi> Angel <hi>appearing to the</hi> Shepherds — Bambotts</item>
+               <item>N<hi rend="sup">o</hi> 51 <hi>A St.</hi> Jerom — Hanibal Coraccius</item>
+               <item>N<hi rend="sup">o</hi> 52 <hi>A Haven</hi> — Salvator Roſa</item>
+               <item>N<hi rend="sup">o</hi> 53 <hi>A Landskip of</hi> Gaſpero Pauſin <hi>with Figures — of</hi> John Meila</item>
+               <item>N<hi rend="sup">o</hi> 54 <hi>A Meeting of Beggars</hi> — John Meilla</item>
+               <item>N<hi rend="sup">o</hi> 55 <hi>At Play</hi> Alamora — Bambotts</item>
+               <item>N<hi rend="sup">o</hi> 56 <hi>A Landskip and Robbery</hi> — Salvator Roſa</item>
+               <item>N<hi rend="sup">o</hi> 57 Suſanna <hi>and the Elders</hi> — Annibal Carraccius</item>
+               <item>N<hi rend="sup">o</hi> 58 <hi>A Landskip</hi> — Feebe Hollandeſe</item>
+               <item>N<hi rend="sup">o</hi> 59 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 60 <hi>A</hi> Madonna <hi>after</hi> Guido Reni — Cavalere Raſpeutino</item>
+               <item>N<hi rend="sup">o</hi> 61 <hi>A Flower-Pott</hi> — Gio. Batt. Eſtorges</item>
+               <item>N<hi rend="sup">o</hi> 62 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 63 Phaetons <hi>Siſters</hi> — Raphalino</item>
+               <item>N<hi rend="sup">o</hi> 64 <hi>The Judgment of</hi> Paris — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 65 <hi>A Proſpective</hi> — Dom. Rob. Romano</item>
+               <item>N<hi rend="sup">o</hi> 66 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 67 Armida <hi>and</hi> Rynaldo — Fabritio Chiara</item>
+               <item>N<hi rend="sup">o</hi> 68 Venus <hi>and a</hi> Satyr — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 69 <hi>Nature treating with</hi> Eſculapius — Maſcarotti</item>
+               <item>N<hi rend="sup">o</hi> 70 <hi>A Proſpective</hi> — Dom. Rob. Romano</item>
+               <item>N<hi rend="sup">o</hi> 71 <hi>Birds and Beaſts</hi> — David di Honico</item>
+               <item>N<hi rend="sup">o</hi> 72 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 73 <hi>A Flower-Pot</hi> — Mario Di Fiori</item>
+               <item>N<hi rend="sup">o</hi> 74 <hi>A Bachanal</hi> — Nic. Pauſin</item>
+               <item>N<hi rend="sup">o</hi> 75 Scipio Africanus — Gio. Batt. Lenardi</item>
+               <item>N<hi rend="sup">o</hi> 76 <hi>A Flower Pot</hi> — Mario Di Fiori</item>
+               <item>N<hi rend="sup">o</hi> 77 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 78 <hi>Chriſt Crowned with Thorns</hi> — Lenardo Baſſan</item>
+               <item>N<hi rend="sup">o</hi> 79 <hi>Putting Chriſt into the Sepulchre</hi> — Venetiano</item>
+               <item>N<hi rend="sup">o</hi> 80 <hi>A Landskip with Figures</hi> — Swanevelt</item>
+               <item>N<hi rend="sup">o</hi> 81 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 82 <hi>A</hi> Madonna — Buono Faccio</item>
+               <item>N<hi rend="sup">o</hi> 83 <hi>Another</hi> — Carlotto Calliari</item>
+               <item>N<hi rend="sup">o</hi> 84 Abigail <hi>coming to</hi> David — Jacomo Baſſan</item>
+               <item>N<hi rend="sup">o</hi> 85 <hi>A</hi> Madonna — Polidore Venetiano</item>
+               <item>N<hi rend="sup">o</hi> 86 Jacob <hi>going into</hi> Egypt — Jacomo Baſſan</item>
+               <item>N<hi rend="sup">o</hi> 87 Titius <hi>a naked Figure</hi> — Pietro Peruccino</item>
+               <item>N<hi rend="sup">o</hi> 88 Lot <hi>and his Daughters — By an</hi> Italian <hi>Hand</hi>
+               </item>
+               <item>N<hi rend="sup">o</hi> 89 <hi>A</hi> Pilgrim — Jacomo Baſſan</item>
+               <item>N<hi rend="sup">o</hi> 90 <hi>A dead Chriſt</hi> — Franſceſco Baſſan</item>
+               <item>N<hi rend="sup">o</hi> 91 <hi>A Landskip with Figures</hi> — Swanevelt</item>
+               <item>N<hi rend="sup">o</hi> 92 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 93 <hi>The laſt Supper</hi> — Tintorett</item>
+               <item>N<hi rend="sup">o</hi> 94 <hi>A Dead Chriſt</hi> — Carlotto</item>
+               <item>N<hi rend="sup">o</hi> 95 <hi>A Womans Head</hi> — Barochius</item>
+               <item>N<hi rend="sup">o</hi> 96 <hi>The good</hi> Samaritan — Carlotto</item>
+               <item>N<hi rend="sup">o</hi> 97 <hi>The finding of</hi> Moſes — Maſſlo di Vincenza</item>
+               <pb n="3" facs="tcp:108039:2"/>
+               <item>N<hi rend="sup">o</hi> 98 <hi>Chriſt bearing his Croſs</hi> — Gio. Contrarini</item>
+               <item>N<hi rend="sup">o</hi> 99 <hi>Rape of</hi> Helen — Fedrico Cervelli</item>
+               <item>N<hi rend="sup">o</hi> 100 <hi>A</hi> Madonna <hi>and</hi> 2 <hi>other Figures</hi> — Auguſtine Carraccius</item>
+               <item>N<hi rend="sup">o</hi> 101 <hi>A Battel.</hi> — Signior Kempe</item>
+               <item>N<hi rend="sup">o</hi> 102 <hi>An</hi> Europa — Scarcilino Di Ferara</item>
+               <item>N<hi rend="sup">o</hi> 103 <hi>A St.</hi> Sebaſtian — Mich. Ang. Caravaggio</item>
+               <item>N<hi rend="sup">o</hi> 104 <hi>Finding of</hi> Moſes — Carocelli</item>
+               <item>N<hi rend="sup">o</hi> 105 Diana <hi>and</hi> Caliſto — Filippo Michelli</item>
+               <item>N<hi rend="sup">o</hi> 106 <hi>St.</hi> Joſeph <hi>ſick</hi> — Cavalere Bernaſche</item>
+               <item>N<hi rend="sup">o</hi> 107 <hi>Our Saviour bound</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 108 <hi>A piece of Fiſh</hi> — Aliſandro Cicute</item>
+               <item>N<hi rend="sup">o</hi> 109 Armido <hi>and</hi> Rinaldo — Fabritio Chiara</item>
+               <item>N<hi rend="sup">o</hi> 110 <hi>A St.</hi> Chriſtopher. — Titian</item>
+               <item>N<hi rend="sup">o</hi> 111 Dido <hi>and</hi> AEneas <hi>Hunting</hi> — Manciola</item>
+               <item>N<hi rend="sup">o</hi> 112 <hi>Another Hunting</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 113 <hi>A St.</hi> Peter — Franceſco Traviſano</item>
+               <item>N<hi rend="sup">o</hi> 114 <hi>A</hi> David — Daniel Scutero</item>
+               <item>N<hi rend="sup">o</hi> 115 <hi>A</hi> Sampſon — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 116 <hi>A Flower-Pot</hi> — Gio. Bat. Eſtorges</item>
+               <item>N<hi rend="sup">o</hi> 117 <hi>An old Womans Head</hi> — Carlo Maratto</item>
+               <item>N<hi rend="sup">o</hi> 118 <hi>A Proſpective</hi> — Dom. Rob. Romano</item>
+               <item>N<hi rend="sup">o</hi> 119 <hi>A Battel</hi> — Antonio di Val</item>
+               <item>N<hi rend="sup">o</hi> 120 Phaetons <hi>Siſters</hi> — Daniel Scutero</item>
+               <item>N<hi rend="sup">o</hi> 121 <hi>A Battel</hi> — Genizarro</item>
+               <item>N<hi rend="sup">o</hi> 122 <hi>A Landskip</hi> — Franceſco Bologneſe</item>
+               <item>N<hi rend="sup">o</hi> 123 <hi>A Proſpective</hi> — Dom. Rob. Romano</item>
+               <item>N<hi rend="sup">o</hi> 124 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 125 <hi>A Battel</hi> — Antonio di Vall</item>
+               <item>N<hi rend="sup">o</hi> 126 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 127 <hi>St.</hi> John <hi>and a</hi> Hermit <hi>and other Figures</hi> — Gio. Lorenzo Barteletti</item>
+               <item>N<hi rend="sup">o</hi> 128 <hi>The Four Ages of Man</hi> — Jacomo Stilante</item>
+               <item>N<hi rend="sup">o</hi> 129 <hi>A</hi> Madonna <hi>and other Figures</hi> — Old Palma</item>
+               <item>N<hi rend="sup">o</hi> 130 <hi>The Prodigal Son</hi> — Titian</item>
+               <item>N<hi rend="sup">o</hi> 131 Tobit <hi>anointing his Fathers Eyes</hi> — Carlotto</item>
+               <item>N<hi rend="sup">o</hi> 132 Vulcan<hi>'s Forge</hi> — Lucas Jordanus</item>
+               <item>N<hi rend="sup">o</hi> 133 <hi>A</hi> Venus — Fedrico Cervelli</item>
+               <item>N<hi rend="sup">o</hi> 134 <hi>Another ſleeping</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 135 <hi>A</hi> Madonna <hi>and ſeveral other Figures</hi> — Andrea Schiavone</item>
+               <item>N<hi rend="sup">o</hi> 136 <hi>An</hi> Ecce Homo — Sir Antonio Van Dyck</item>
+               <item>N<hi rend="sup">o</hi> 137 <hi>A Shepherd and Shepherdeſs</hi> — Parris Burdone</item>
+               <item>N<hi rend="sup">o</hi> 138 <hi>An</hi> Attalanta — Old Palma</item>
+               <item>N<hi rend="sup">o</hi> 139 <hi>Sir</hi> Thomas Moors <hi>Picture</hi> — Hans Holben</item>
+               <item>N<hi rend="sup">o</hi> 140 Moglia <hi>Mother to</hi> Mithridates — Auguſtino Scilla</item>
+               <item>N<hi rend="sup">o</hi> 141 <hi>A Fruit Piece</hi> — Stellante</item>
+               <item>N<hi rend="sup">o</hi> 142 <hi>The Rape of the</hi> Sabines — Fabritio Chiara</item>
+               <item>N<hi rend="sup">o</hi> 143 <hi>The three Graces</hi> — Carlo Ronca</item>
+               <item>N<hi rend="sup">o</hi> 144 <hi>A Piece with Beggars</hi> — Theodoro</item>
+               <item>N<hi rend="sup">o</hi> 145 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 146 <hi>A</hi> Venus — Lugi Garzi</item>
+               <item>N<hi rend="sup">o</hi> 147 <hi>A</hi> Diana <hi>and</hi> Endymion — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 148 <hi>A Landskip</hi> — Signior Nicola</item>
+               <item>N<hi rend="sup">o</hi> 149 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 150 <hi>A Landskip</hi> — Gaſpero Pauſin</item>
+               <pb n="4" facs="tcp:108039:3"/>
+               <item>N<hi rend="sup">o</hi> 151 <hi>A St.</hi> Laurence — Franceſco Traviſano</item>
+               <item>N<hi rend="sup">o</hi> 152 <hi>A Landskip with Figures</hi> — Gio. Batt. Bon. Cora</item>
+               <item>N<hi rend="sup">o</hi> 163 <hi>Another</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 154 <hi>A Landskip</hi> — Gaſpero Pauſin</item>
+               <item>N<hi rend="sup">o</hi> 155 Joſeph <hi>and</hi> Mary — Filippo Laura</item>
+               <item>N<hi rend="sup">o</hi> 156 <hi>A Man playing on a Baſe Vial</hi> — Franceſco Mola</item>
+               <item>N<hi rend="sup">o</hi> 157 <hi>The Picture of</hi> Philippo di Proſpetiva — Cavalere Berneene</item>
+               <item>N<hi rend="sup">o</hi> 158 Laban <hi>treating with</hi> Jacob <hi>in a Landskip</hi> — Claude Loraneſe</item>
+               <item>N<hi rend="sup">o</hi> 159 <hi>Adoring the Golden Calf in a Landskip</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 160 <hi>A</hi> Madonna <hi>and ſeveral other Figures</hi> — Old Palma.</item>
+               <item>N<hi rend="sup">o</hi> 161 <hi>A Fruit-piece</hi> — Mich. Angelo Battaglia</item>
+               <item>N<hi rend="sup">o</hi> 162 <hi>A Proſpective piece with figures of Mich. Ang.</hi> — Filippo di Proſpetiva</item>
+               <item>N<hi rend="sup">o</hi> 163 <hi>Another with figures of Mich. Ang. Bat.</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 164 <hi>The Imbarcation of</hi> Sancta Paula — Claude Loraneſe</item>
+               <item>N<hi rend="sup">o</hi> 165 <hi>A Braſiers Shop</hi> — Buon Anni</item>
+               <item>N<hi rend="sup">o</hi> 166 <hi>An</hi> Alchymiſt — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 167 <hi>Martyrdom of a Saint</hi> — Pietro di Cortone</item>
+               <item>N<hi rend="sup">o</hi> 168 Tobit <hi>and the Angel</hi> — Auguſtine Scilla</item>
+               <item>N<hi rend="sup">o</hi> 169 Hagar <hi>and the Angel</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 170 <hi>A large Crucifix — An Italian Hand</hi>
+               </item>
+               <item>N<hi rend="sup">o</hi> 171 <hi>Crucifying St.</hi> Peter — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 172 <hi>Two Cherubims</hi> — Boncoro</item>
+               <item>N<hi rend="sup">o</hi> 173 <hi>Two more</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 174 <hi>A Landskip By an Italian Hand</hi>
+               </item>
+               <item>N<hi rend="sup">o</hi> 175 <hi>A</hi> David <hi>and</hi> Goliah <hi>in Ivory</hi> — Franceſco Boſovit</item>
+               <item>N<hi rend="sup">o</hi> 176 <hi>A</hi> Judith <hi>and</hi> Holifernus — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 177 <hi>A</hi> Lucretia — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 178 <hi>A</hi> Cleopatria — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 179 <hi>A Fruit-Piece</hi> — Mich. Ang. Bataglia</item>
+               <item>N<hi rend="sup">o</hi> 180 <hi>A</hi> Venus <hi>and</hi> Cupid — Signior Daniel</item>
+               <item>N<hi rend="sup">o</hi> 181 <hi>A Philoſopher's Head</hi> — Ditto</item>
+               <item>N<hi rend="sup">o</hi> 182 Jethro Beaten <hi>from the Protection of</hi> Moſes — Signior Colombelli</item>
+               <item>N<hi rend="sup">o</hi> 183 <hi>An</hi> Actean <hi>and</hi> Diana  —Filippo Laura</item>
+               <item>N<hi rend="sup">o</hi> 184 <hi>Our Saviours Baptiſm</hi> — Signior Bartelotti</item>
+               <item>N<hi rend="sup">o</hi> 185 <hi>A</hi> Judith — Fran. Boſovit</item>
+               <item>N<hi rend="sup">o</hi> 186 <hi>A</hi> Cleopatria — Ditto</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
